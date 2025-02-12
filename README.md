@@ -77,6 +77,7 @@
 </p>
 
 ---
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ## 💡 Fun Fact  
 > **"Code is like humor. When you have to explain it, it’s bad."** 😆  
