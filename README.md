@@ -31,7 +31,7 @@
 ## 🐍 Contribution Snake  
 ### 🔄 **Auto-updating Contribution Graph Animation**
 <p align="center">
-  <img src="https://github.com/Yogagujar07/Yogagujar07/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Yogagujar07/Yogagujar07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
