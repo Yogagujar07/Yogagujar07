@@ -1,0 +1,27 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Yogagujar07
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push the Generated Snake Image
+        uses: JamesIves/github-pages-deploy-action@4.1.7
+        with:
+          branch: output
+          folder: dist
+          clean: true
