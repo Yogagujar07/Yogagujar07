@@ -28,13 +28,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-### 🔄 **Auto-updating Contribution Graph Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yogagujar07/Yogagujar07/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
-
----
 
 ## 🎭 Fun Animated Profile  
 <p align="center">
@@ -77,7 +70,7 @@
 </p>
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 
 ## 💡 Fun Fact  
 > **"Code is like humor. When you have to explain it, it’s bad."** 😆  
