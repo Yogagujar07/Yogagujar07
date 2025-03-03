@@ -1,3 +1,6 @@
+![GitHub Snake Light](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg#gh-dark-mode-only)
+
 # 👋 Hello, I'm Yogesh Patil  
 ### 🚀 Full-Stack Developer | Tech Enthusiast  
 
