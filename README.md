@@ -1,5 +1,4 @@
-![GitHub Snake Light](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 # 👋 Hello, I'm Yogesh Patil  
 ### 🚀 Full-Stack Developer | Tech Enthusiast  
@@ -32,13 +31,6 @@
 ---
 
 
-## 🎭 Fun Animated Profile  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies  
 ### 🥇 **Achievements & Contributions**  
 <p align="center">
@@ -65,7 +57,7 @@
 
 ---
 
-## 🚀 Explore My Portfolio  
+## 🚀 Portfolio Page 
 <p align="center">
   <a href="https://yogagujar07.github.io/Portfolio_App/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Check%20Out%20My%20Awesome%20Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/>
@@ -75,5 +67,3 @@
 ---
 
 
-## 💡 Fun Fact  
-> **"Code is like humor. When you have to explain it, it’s bad."** 😆  
