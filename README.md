@@ -19,17 +19,6 @@
 
 ---
 
-## ✨ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogagujar07&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogagujar07&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 
 ## 🏆 GitHub Trophies  
 ### 🥇 **Achievements & Contributions**  
