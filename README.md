@@ -28,7 +28,7 @@
 
 ---
 
-## ⚡ Connect With Me  
+## ⚡ NetWork  
 <p align="center">
   <a href="https://x.com/yp057130?t=hc1l6kiebplusj5s3uqicg&s=09">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
