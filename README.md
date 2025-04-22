@@ -19,15 +19,6 @@
 
 ---
 
-
-## 🏆 GitHub Trophies  
-### 🥇 **Achievements & Contributions**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogagujar07&theme=gradient&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## ⚡ NetWork  
 <p align="center">
   <a href="https://x.com/yp057130?t=hc1l6kiebplusj5s3uqicg&s=09">
