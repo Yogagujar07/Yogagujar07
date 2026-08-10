@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Yogesh Patil  
+# Hello, I am Yogesh Patil  
 ### 🚀 Full-Stack Developer | Tech Enthusiast  
 
 ---
